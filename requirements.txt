@@ -1,0 +1,2 @@
+Kivy==2.0.0
+PyInstaller==4.3
